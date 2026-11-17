@@ -1,0 +1,80 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\perfumes-in-lebanon\\assets\\perfume-01.jpg",
+    "sha256": "94ff9e4359347b57c1be5187a5630a497d6410274089cce189cc14729a2534e6",
+    "originalDimensions": [
+      1296,
+      1696
+    ],
+    "webDimensions": [
+      1296,
+      1696
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\perfumes-in-lebanon\\assets\\perfume-02.jpg",
+    "sha256": "cceee4679f86a5d9774fdcbc3fb1251c52182a58b8be52b111a7bb6335c70141",
+    "originalDimensions": [
+      518,
+      640
+    ],
+    "webDimensions": [
+      518,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\perfumes-in-lebanon\\assets\\perfume-03.jpg",
+    "sha256": "e3142aa2b0406c6ab1db5bada3a924e7180da94e970d13fb81a0f50fc8520c65",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\perfumes-in-lebanon\\assets\\perfume-07.jpg",
+    "sha256": "a090cc5c49ef6a24efd622926642a59dd4f9f8c4e8908a1a8e3612bea2cf40e9",
+    "originalDimensions": [
+      483,
+      640
+    ],
+    "webDimensions": [
+      483,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\perfumes-in-lebanon\\assets\\perfume-08.jpg",
+    "sha256": "4dff39c5df8c77219e6533229b21ee2a454e4a6a8d9f72e46fdcd66184e37b9b",
+    "originalDimensions": [
+      559,
+      640
+    ],
+    "webDimensions": [
+      559,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-next-five\\perfumes-in-lebanon\\assets\\perfume-09.jpg",
+    "sha256": "6144620dc280f42bcf22d99e5872733ad4418ca7f3288c2198897f1f7e76e16b",
+    "originalDimensions": [
+      512,
+      640
+    ],
+    "webDimensions": [
+      512,
+      640
+    ]
+  }
+]
